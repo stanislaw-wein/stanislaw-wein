@@ -27,9 +27,13 @@ I am a fullstack software engineer
 <img align="left" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%23316192.svg?&style=for-the-badge&logo=MongoDB&logoColor=green" />
 
 
+<br>
+<br>
 
-<br>
-<br>
+## Blog posts
+<!-- BLOG-POST-LIST:START -->
+ 
+<!-- BLOG-POST-LIST:END -->
 
 <!--
 **stanislaw-wein/stanislaw-wein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
