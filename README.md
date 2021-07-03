@@ -10,9 +10,11 @@ I am a fullstack software engineer
 
 ## Expertise
 
-<img align="left" alt="spring" src="https://img.shields.io/badge/java%20-red.svg?&style=for-the-badge&logo=java&logoColor=white" />
+<img align="left" alt="java" src="https://img.shields.io/badge/java%20-red.svg?&style=for-the-badge&logo=java&logoColor=white" />
 
 <img align="left" alt="spring" src="https://img.shields.io/badge/spring%20boot-%236DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white" />
+
+<img align="left" alt="Apache Kafka" src="https://img.shields.io/badge/Apache%20Kafka?&style=for-the-badge&logo=Kafka&logoColor=white" />
 
 <img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 
@@ -20,9 +22,9 @@ I am a fullstack software engineer
 
 <img align="left" alt="aws" src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" />
 
-<img align="left" alt="medium" src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
+<img align="left" alt="postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
 
-<img align="left" alt="medium" src="https://img.shields.io/badge/MongoDB-%23316192.svg?&style=for-the-badge&logo=MongoDB&logoColor=green" />
+<img align="left" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%23316192.svg?&style=for-the-badge&logo=MongoDB&logoColor=green" />
 
 
 
