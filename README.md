@@ -36,6 +36,7 @@ I am a fullstack software engineer
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Spring Boot GraphQL Tutorial](https://medium.com/geekculture/spring-boot-graphql-tutorial-77300048909b?source=rss-b05be2bd98a4------2)
 - [Spring Boot with Docker](https://medium.com/swlh/spring-boot-with-docker-2467db187fa2?source=rss-b05be2bd98a4------2)
 - [Spring Boot WebClient Cheat Sheet](https://medium.com/swlh/spring-boot-webclient-cheat-sheet-5be26cfa3e?source=rss-b05be2bd98a4------2)
 - [Setting up Secure Connection in a Spring Boot App](https://medium.com/swlh/setting-up-secure-connection-in-a-spring-boot-app-f884c9b28bfb?source=rss-b05be2bd98a4------2)
