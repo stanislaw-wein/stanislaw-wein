@@ -36,11 +36,11 @@ I am a fullstack software engineer
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Spring Boot WebClient Testing Techniques](https://medium.com/geekculture/spring-boot-webclient-testing-techniques-93381b3c9710?source=rss-b05be2bd98a4------2)
+- [A Comprehensive Guide to Finding the Perfect Daycare in British Columbia, Canada](https://stanislav-vain.medium.com/a-comprehensive-guide-to-finding-the-perfect-daycare-in-british-columbia-canada-6ac7cee4de6?source=rss-b05be2bd98a4------2)
 - [Spring Boot GraphQL Tutorial](https://medium.com/geekculture/spring-boot-graphql-tutorial-77300048909b?source=rss-b05be2bd98a4------2)
 - [Spring Boot with Docker](https://medium.com/swlh/spring-boot-with-docker-2467db187fa2?source=rss-b05be2bd98a4------2)
 - [Spring Boot WebClient Cheat Sheet](https://medium.com/swlh/spring-boot-webclient-cheat-sheet-5be26cfa3e?source=rss-b05be2bd98a4------2)
-- [Setting up Secure Connection in a Spring Boot App](https://medium.com/swlh/setting-up-secure-connection-in-a-spring-boot-app-f884c9b28bfb?source=rss-b05be2bd98a4------2)
-- [Getting Started With Cypress.io](https://medium.com/swlh/getting-started-with-cypress-io-e2c7068663ac?source=rss-b05be2bd98a4------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
