@@ -32,6 +32,9 @@ I am a fullstack software engineer
 
 -->
 
+## Public Utility
+
+Searching for the perfect daycare or school for your child in British Columbia? Check out my interactive Daycare Locator: https://bcinfo.in
 <br>
 
 ## Blog posts
