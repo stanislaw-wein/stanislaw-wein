@@ -39,6 +39,7 @@ Searching for the perfect daycare or school for your child in British Columbia? 
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [LangChain in TypeScript: Build an AI Research Assistant From Zero](https://stanislav-vain.medium.com/langchain-in-typescript-build-an-ai-research-assistant-from-zero-0ef712a7434d?source=rss-b05be2bd98a4------2)
 - [Spring Boot WebClient Testing Techniques](https://medium.com/geekculture/spring-boot-webclient-testing-techniques-93381b3c9710?source=rss-b05be2bd98a4------2)
 - [A Comprehensive Guide to Finding the Perfect Daycare in British Columbia, Canada](https://stanislav-vain.medium.com/a-comprehensive-guide-to-finding-the-perfect-daycare-in-british-columbia-canada-6ac7cee4de6?source=rss-b05be2bd98a4------2)
 - [Spring Boot GraphQL Tutorial](https://medium.com/geekculture/spring-boot-graphql-tutorial-77300048909b?source=rss-b05be2bd98a4------2)
